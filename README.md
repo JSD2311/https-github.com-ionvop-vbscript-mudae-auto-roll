@@ -5,8 +5,7 @@
 This is basically a tool that helps sending slash command rolls like `/wx` on Mudae to be consistent under Discord's limitations of 2 slash commands per 5 seconds, so it's no longer needed to have to copy paste and having to wait 4 seconds every after 2 commands
 
 There will be 2 windows popup upon running this script.\
-One is for killing the script incase if it goes rogue since I have yet to find a way for the script to detect the which window is currently active.\
-The other one is to start the program
+One is for starting the program, and the other one is for killing the script in case if it goes rogue since I have yet to find a way for the script to detect the which window is currently active
 
 Upon starting the program, there will be a 3 second delay before it starts to give time for the preparations like putting the cursor onto the chatbox to type the command.\
 There are currently 2 actions that can be done while it's rolling.\
