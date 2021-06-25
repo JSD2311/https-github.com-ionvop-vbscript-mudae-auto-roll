@@ -35,7 +35,7 @@ But I am still going to add a few little features to make it convenient for myse
 
 I'm planning on adding an optional setting menu to set up what commands it's going to send (like `/mx`, `/wa`, or `/hg`) every how many seconds (default is 3 seconds) for a set number of times (default is loop until the key `c` or `space` is pressed)
 
-There are some known bugs like the first `objShell.sendkeys("~")` (which basically simulates pressing the enter key) usually never works, and I honsetly don't know why.\
+There are some known bugs like every first execution of the code `objShell.sendkeys("~")` (which basically simulates pressing the enter key) usually never works, and I honsetly don't know why.\
 I also have to find a better failsafe whenever the window goes out of focus which causes the script to go rogue and do unexpected actions outside the window, like checking whether the current active window is the correct one.\
 It would make the program much safer for myself, and incase if anyone for some reason decided to use this
 
