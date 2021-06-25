@@ -29,7 +29,7 @@ I also have yet to find a way to use a key detector instead of the current metho
 
 ## Planned updates
 
-This project, like all my other projects, are just made for personal fun.\
+This project, like all my other projects, is just made for personal fun.\
 This was not made to be practically used by others.\
 But I am still going to add a few little features to make it convenient for myself whenever I use it
 
