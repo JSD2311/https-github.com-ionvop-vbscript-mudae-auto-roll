@@ -50,4 +50,4 @@ I like the double claim time and the bonus kakera that comes with it
 idk
 
 #### Why VBScript?
-Why not?
+i like to suffer
