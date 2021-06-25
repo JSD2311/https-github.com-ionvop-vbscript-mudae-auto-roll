@@ -1,4 +1,4 @@
-# vbscript-mudae-auto-roll
+# VBScript Mudae Auto-roll
 
 ## Introduction
 
