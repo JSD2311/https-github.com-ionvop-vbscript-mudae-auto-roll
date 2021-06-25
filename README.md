@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is basically a tool that helps sending slash command rolls like `/wx` on Mudae to be consistent under Discord's limitations of 2 slash commands per 5 seconds, so it's no longer needed to have to copy paste and having to wait around 4 seconds every after 2 commands
+This is basically a tool written in VBScript that helps sending slash command rolls like `/wx` on Mudae to be consistent under Discord's limitations of 2 slash commands per 5 seconds, so it's no longer needed to have to copy paste and having to wait around 4 seconds every after 2 commands
 
 There are 2 windows that will pop up upon running this script.\
 One is for starting the program, and the other one is for killing the script in case if it goes rogue since I have yet to find a way for the script to detect the which window is currently active
@@ -48,3 +48,6 @@ I like the double claim time and the bonus kakera that comes with it
 
 #### Why the c key when stopping the program?
 idk
+
+#### Why VBScript?
+Why not?
